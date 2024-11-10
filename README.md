@@ -47,14 +47,9 @@ hickey was taken to hospital after his arrest
 brazil police arrests rio olympics officials
 ```
 
+### Project created by:-
 
-### TODO:
-* Try label smoothing (the original paper has)
-* Use ROUGE metric
-* Use a pretariend model 
-
-### Tutorials on the Transformers:
-
-* https://towardsdatascience.com/transformers-explained-65454c0f3fa7
-* http://jalammar.github.io/illustrated-transformer/
-* https://www.youtube.com/watch?v=TQQlZhbC5ps
+Vedant Bhosale
+Prathamesh Nandane
+Samruddhi barhate
+Aditya Jadhav
