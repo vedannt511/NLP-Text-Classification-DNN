@@ -1,10 +1,10 @@
 ### Encoder and Decoder diagram:
 
-<img src= files/transformer.png  width = "693" height = "492" alt="centered image">
+<img src= transformer.png  width = "693" height = "492" alt="centered image">
 
 ### Abstractive Summarization with Transformers:
 
-<img src= files/abstractivesum.jpg  width = "300" height = "130">
+<img src= abstractivesum.jpg  width = "300" height = "130">
 
 Abstractive summarization is the technique of generating a summary of a text from its main ideas, not by copying verbatim most salient sentences from text. There have been many different algorithms and methods for performing this task including the use of RNNs or the newer networks: Transformers. 
 
