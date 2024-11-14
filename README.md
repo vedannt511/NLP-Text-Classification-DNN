@@ -1,6 +1,4 @@
-# Codefundo 2018
-  
- Implemented a system which can categorize or classify a textual data using Deep Neural Network Model trained using Google Tensorflow.  
+Implemented a system which can categorize or classify a textual data using Deep Neural Network Model trained using Google Tensorflow.  
  
 ## Text Classification
 
