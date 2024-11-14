@@ -84,5 +84,3 @@ We are using dataset of the 2014 India Floods.
 5. Tensorflow
 6. NLTK
 
-## Video Link
-https://www.youtube.com/watch?v=eoFKlHBbSXo
